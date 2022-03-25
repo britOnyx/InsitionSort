@@ -94,6 +94,6 @@ public class InsertionSort_Prac1 {
 		InsertionSort(tempValueList);
 		
 		//print the sorted array
-	    return "Sorted Array:" + Arrays.toString(tempValueList);
+		return "Sorted Array:" + Arrays.toString(tempValueList);
 	}
 }
