@@ -1,15 +1,13 @@
 package Insertion;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Scanner;
 import java.util.stream.Collectors;
 
 public class InsertionSort_Prac1 {
 
-	public static int myNumber[];
-	
-	/*
-	 * public InsertionSort_Prac1(int[] myNumber) { myNumber = myNumb; }
-	 */
+	private static int myNumber[];
+	private static Scanner scan;
 	
 	public static void main(String[] args)
 	{
